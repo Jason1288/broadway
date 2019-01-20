@@ -29,3 +29,10 @@ p {font-family: Helvetica;
          font-weight: bold;
          color: white;
        background-color: teal;}
+
+  .footer{ font-family: Helvetica;
+           font-size: 11px;
+           color: white;
+           background-color: dimgray;
+           text-align: left;
+           }
